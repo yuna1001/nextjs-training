@@ -6,3 +6,6 @@
 - eslint
 - prettier
 - typescript
+
+#### db
+- MongoDB
